@@ -9,7 +9,6 @@ import kotlinx.coroutines.Dispatchers.Main
 
 class MainActivity : AppCompatActivity() {
 
-
     private val RESULT_1 = "Result #1"
     private val RESULT_2 = "Result #2"
 
